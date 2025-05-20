@@ -1,5 +1,13 @@
-<script>
-  // Redirect all 404s to index.html and preserve path
-  const pathname = window.location.pathname
-  window.location.replace('/index.html?redirect=' + pathname)
-</script>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Single Page Apps for GitHub Pages</title>
+    <script type="text/javascript">
+      // Chuyển hướng tất cả các yêu cầu tới index.html
+      const path = window.location.pathname
+      window.location.replace(`${window.location.origin}/${window.location.hash}`)
+    </script>
+  </head>
+  <body></body>
+</html>
