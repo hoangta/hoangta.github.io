@@ -94,7 +94,7 @@ Please change the parent <Route path="${A}"> to <Route path="${A==="/"?"*":`${A}
 
 **Developer:** 2pp Studio
 
-**Contact:** eversince.support@2pp.app
+**Contact:** support@2pp.app
 
 ---
 
@@ -180,7 +180,7 @@ If you have any questions, concerns, or requests regarding this Privacy Policy o
 
 **App Name:** Pace: Habit & Routine
 
-**Developer:** 2pp Studio
+**Developer:** 2P Studio
 
 **Contact:** support@2pp.app
 
